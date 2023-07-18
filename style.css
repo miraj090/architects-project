@@ -133,6 +133,17 @@ main{
     .description{
         font-size: 15px;
     }
+
+    .team{
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .team-img{
+        grid-template-columns: 1fr;
+
+    }
+
 }
 
 
